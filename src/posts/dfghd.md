@@ -1,0 +1,6 @@
+---
+title: "Stop Comparing Yourself to Others #SelfLove"
+date: 2019-01-16T10:00
+thumb: "windows-7.jpg"
+tags: 
+    - motive
